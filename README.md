@@ -46,9 +46,8 @@
 
 ![avatar](https://raw.githubusercontent.com/LookCos/pyai/master/%E6%95%88%E6%9E%9C%E5%9B%BE/1.png)
 ![avatar](https://raw.githubusercontent.com/LookCos/pyai/master/%E6%95%88%E6%9E%9C%E5%9B%BE/2.png)
-![avatar](https://raw.githubusercontent.com/LookCos/pyai/master/%E6%95%88%E6%9E%9C%E5%9B%BE/2.png)
 ![avatar](https://raw.githubusercontent.com/LookCos/pyai/master/%E6%95%88%E6%9E%9C%E5%9B%BE/3.png)
 ![avatar](https://raw.githubusercontent.com/LookCos/pyai/master/%E6%95%88%E6%9E%9C%E5%9B%BE/4.png)
 ![avatar](https://raw.githubusercontent.com/LookCos/pyai/master/%E6%95%88%E6%9E%9C%E5%9B%BE/5.png)
-![avatar](https://raw.githubusercontent.com/LookCos/pyai/master/%E6%95%88%E6%9E%9C%E5%9B%BE/6.png)
-![avatar](https://raw.githubusercontent.com/LookCos/pyai/master/%E6%95%88%E6%9E%9C%E5%9B%BE/7.png)
+![avatar](https://raw.githubusercontent.com/LookCos/pyai/master/%E6%95%88%E6%9E%9C%E5%9B%BE/6.jpg)
+![avatar](https://raw.githubusercontent.com/LookCos/pyai/master/%E6%95%88%E6%9E%9C%E5%9B%BE/7.jpg)
