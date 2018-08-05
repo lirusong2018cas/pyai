@@ -3,11 +3,11 @@
 
 ## 目录结构：
 
-│  baidu_aip.py  ### 调用百度人脸识别
+│  baidu_aip.py 调用百度人脸识别
 
-│  cb.py ### Flask  主页，引导页！
+│  cb.py Flask 主页，引导页！
 
-├─static ### 静态文件存放
+├─static  静态文件存放
 
 │ ------     favicon.ico 
 
@@ -17,21 +17,21 @@
 
 │ ------      style.css 
 
-└─templates ### 模板文件
+└─templates 模板文件
 
-| ------ ------   index.html ### 主页模板
+| ------ ------   index.html  主页模板
 
-|------ ------     res.html ### 结果页模板
+|------ ------     res.html  结果页模板
 
-|------ ------     tz.html  ### 跳转页面模板
+|------ ------     tz.html   跳转页面模板
 
-### 百度人脸识别SDK下载  http://ai.baidu.com/sdk#bfr  
+#### 百度人脸识别SDK下载  http://ai.baidu.com/sdk#bfr  
 #### 下载后执行 python setup.py install 即可。 
 ### 保证cb.py与SDK在同一目录下。
 
 ## 相关参考文献即代码托管等：
-### Python SDK文档  http://ai.baidu.com/docs#/Face-Python-SDK/top
+#### Python SDK文档  http://ai.baidu.com/docs#/Face-Python-SDK/top
 
-### Flask中文文档  http://dormousehole.readthedocs.io/en/latest/ 
+#### Flask中文文档  http://dormousehole.readthedocs.io/en/latest/ 
 
-### 项目地址：https://github.com/LookCos/pyai 
+#### 项目地址：https://github.com/LookCos/pyai 
