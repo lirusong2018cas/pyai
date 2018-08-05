@@ -3,11 +3,11 @@
 ## 在线体验 http://pyai.lookcos.cn/
 
 ### 使用方法
-0.完整的克隆本项目，
-1.下载百度SDK，解压至项目根目录保证setup.py和项目的cb.py在同一目录，
-2.执行 python setup.py install 以安装百度SDK
-3.安装flask  #### pip install flask
-4.执行 python cb.py 即可
+##### 0.完整的克隆本项目，
+##### 1.下载百度SDK，解压至项目根目录保证setup.py和项目的cb.py在同一目录，
+##### 2.执行 python setup.py install 以安装百度SDK
+##### 3.安装flask  #### pip install flask
+##### 4.执行 python cb.py 即可
 
 ## 目录结构：
 
