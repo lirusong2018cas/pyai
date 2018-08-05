@@ -1,4 +1,4 @@
-# pyai
+# A-website-of-facing-recognition
 ### 打造一个在线的人脸识别系统
 ## 在线体验 http://pyai.lookcos.cn/
 
