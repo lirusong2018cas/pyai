@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+<head>
+	<title>人脸识别体验馆 Power by LookCos</title>
+	<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+	<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300italic,300,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+	<link href='//fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+
+
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="keywords" content="File Upload widget Widget Responsive, Login Form Web Template, Flat Pricing Tables, Flat Drop-Downs, Sign-Up Web Templates, Flat Web Templates, Login Sign-up Responsive Web Template, Smartphone Compatible Web Template, Free Web Designs for Nokia, Samsung, LG, Sony Ericsson, Motorola Web Design" />
+		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+
+</head>
+<style>
+  .dow{display:block;width:110px;height:40px; line-height:25px; text-align:center; font-family:arial,verdana,sans-serif, '新宋体'; font-weight:bold; font-size:14px; background:#428bca;color:#fff; text-decoration:none; border: 3px solid #357ebd; cursor:pointer}
+  .dow:hover{background:#1165ae;}
+  .dow:active{background:#0d79d5;}
+</style>
+<body>
+<h1>Artificial Intelligence</h1>
+<div class="agile-its">
+	<h2>人脸识别结果</h2>
+	<div class="w3layouts">
+	<img src = " {{ url_for('static', filename=filename) }}">
+		<div class="photos-upload-view">
+<script>
+function jump(){
+window.location.href="/";
+}
+</script>
+
+			<div id="messages">
+				<p>识别结果:{{ result }}</p>
+				
+				<p>性别:{{ result_xb }}</p>
+				<p>年龄:{{ result_nl }}</p>
+				<p>脸型:{{ result_lx }}</p>
+				<p>颜值:{{ result_yz }}</p>
+				<p>肤色:{{ result_fs }}</p>
+				<p>表情:{{ result_bq }}</p>
+				<p>佩戴眼镜:{{ result_yj }}</p>
+				<input type="button" value="点击返回首页" onclick=javascrtpt:jump() class = "dow">
+			</div>
+		</div>
+		<div class="clearfix"></div>
+
+
+
+		</div>
+</div>
+<div class="footer">
+
+<p> © 2018 人脸识别体验馆 All Rights Reserved | Design by  <a href="https://www.lookcos.cn">LookCos |QQ 422 815 851</a><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1274353550'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1274353550%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script></p>
+
+	</div>
+
+
+</div>
+</body>
+</html>

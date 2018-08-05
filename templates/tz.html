@@ -1,0 +1,15 @@
+{{ res_tz_a }}，5秒后自动回到首页！
+
+<SCRIPT LANGUAGE="JavaScript">
+var time = 5; //时间,秒
+var timelong = 0;
+function diplaytime(){ //时间递减
+document.all.his.innerHTML = time -timelong ;
+timelong ++;
+}
+function redirect(){ //跳转页
+window.location.href="/";//指定要跳转到的目标页面
+}
+timer=setInterval('diplaytime()', 1000);//显示时间
+timer=setTimeout('redirect()',time * 1000); //跳转
+</SCRIPT>
